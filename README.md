@@ -1,4 +1,4 @@
-Cancer Classification Using Weakly Labeled Whole Slide Images (WSIs)
+## **Cancer Classification Using Weakly Labeled Whole Slide Images (WSIs)**
 
 In this project our team tackled one of the biggest challenges in computational pathology : leveraging massive histopathological images for accurate cancer subtype prediction. This is the full pipeline of all our work which goes in the following sequence:
 1. Data Preprocessing : Making patches of whole slide images.
